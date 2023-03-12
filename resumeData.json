@@ -1,0 +1,191 @@
+{
+  "main": {
+    "name":"Nasir Ruslan",
+    "description":"I am a full stack developer and I use react and vue.js to develop pages. This project is a resume that I created. This is the home page or resume page",
+    "image":"profilepic.jpg",
+    "bio":"I am an aspiring full stack developer that am currently attending the Coder Academy Web Development Bootcamp. I have a great passion for all things programming, but am no stranger on the development front as well. I am fully committed and am very passionate about what I do. In my free time, I love to game, create and upload video shorts on Youtube and TitTok and play with my cat. I love the outdoors and always love the opportunity to go hiking whenever possible.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "nasirruslan91@gmail.com",
+    "phone": "0435184331",
+    "github":"https://github.com/eversometiculous",
+    "project":"https://github.com/eversometiculous/my-resume-project",
+    "address":{
+      "street":"59 Madeline St",
+      "city":"Glen Iris",
+      "state":"Victoria",
+      "zip": "3146"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/tbaker_x",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "education":[
+      {
+        "school":"Coder Academy Full Stack Web Developer Bootcamp",
+        "degree":"Higher Diploma in Information Technology",
+        "graduated":"TBD",
+        "description":"I have just started this bootcamp 2 weeks ago, but already I have picked up useful web development skills such as C++ with Terminal, Markdown, webframing using Figma, HTML, CSS, SCSS, Git. There are many other more exciting modules that I will be learning in the next few weeks, including web deployment using Netlify."
+      },
+      {
+        "school":"Udemy AWS Certified Cloud Practitioner",
+        "degree":"AWS Certified Cloud Practitioner",
+        "graduated":"TBD",
+        "description":"This course has equipped me with all the updated and relevant knowledge regarding AWS fundamentals such as EC2, ELB, ASG, RDS, ElastiCache, S3, Route53, Cloudfront and other fundamentals."
+      }
+      {
+        "school":"Deakin University",
+        "degree":"Bachelor of Biomedical Science, majoring in Cell and Molecular Biology",
+        "graduated":"end 2017",
+        "description":"This course covers the fundamentals of Biomedial Science, including fields of Haematology, Microbiology, Biochemistry, Immunology and Histology. All these fields allow me to pursue a career in the medical science field, such as a pathologist, medical technologist or medical scientist."
+      }
+    ],
+    "work":[
+      {
+        "company":"SafeWork Laboratories",
+        "title":"Scientist",
+        "years":"February 2022 - November 2022",
+        "description":"TBD"
+      },
+      {
+        "company":"Super Cool Studio",
+        "title":"Junior bug fixer",
+        "years":"March 2017 - February 2018",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"60%"
+      },
+      {
+        "name":"VueJs",
+        "level":"55%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"50%"
+      },
+      {
+        "name":"CSS",
+        "level":"90%"
+      },
+      {
+        "name":"PHP",
+        "level":"80%"
+      },
+      {
+        "name":"Swift",
+        "level":"50%"
+      },
+      {
+        "name":"JAVA",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"01.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"01.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"02.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"03.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"04.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"05.jpg",
+        "url":"http://www.smirkspace.com"
+      },
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"06.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      }
+    ]
+  }
+}
